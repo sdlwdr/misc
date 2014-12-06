@@ -1,4 +1,4 @@
-# Samuel DeLaughter
+# Author: Samuel DeLaughter
 # 12/6/14
 
 #This program graphs the probability of landing on each integer in a given interval for a 1D random-walk simulation
