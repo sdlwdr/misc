@@ -1,3 +1,5 @@
+#Author: Samuel DeLaughter
+
 gifts=['A Partridge in a Pear Tree', 'Two Turtle Doves, and', 'Three French Hens', 'Four Calling Birds', 'Five Golden Rings', 'Six Geese-a-Laying', 'Seven Swans-a-Swimming', 'Eight Maids-a-Milking', 'Nine Ladies Dancing', 'Ten Lords-a-Leaping', 'Eleven Pipers Piping', 'Twelve Drummers Drumming']
 ordinal=['st', 'nd', 'rd', 'th', 'th', 'th', 'th', 'th', 'th', 'th', 'th', 'th']
 
