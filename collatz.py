@@ -1,4 +1,4 @@
-#Samuel DeLaughter
+#Author: Samuel DeLaughter
 #12/3/14
 
 #A simple pseudo-proof of the Collatz conjecture
